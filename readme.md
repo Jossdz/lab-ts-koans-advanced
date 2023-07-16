@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | TS Koans
+# LAB | TS Koans Advanced
 
 ## Koans
 
@@ -132,7 +132,7 @@ To do that, the correct workflow is the one used on [TDD](https://en.wikipedia.o
 - Change the code to pass the test
 - Refresh the page to see that the test is passing
 
-> You should not have any ts error, if you see some when uncomenting code, analize it and commented it if necessary to avoid them.
+> You should not have any ts error, if you see some when uncomenting code, analize it and commented it if necessary to avoid them.https://github.com/Jossdz/lab-ts-koans-advanced
 
 This process has to be done for each test. **Do not uncomment all the tests and launch the app. It will be more difficult for you to see if your code is passing the tests.**
 
